@@ -24,7 +24,7 @@ const styles = StyleSheet.create({
         width: 100,
         height: 100,
         borderWidth: 10,
-        borderColor: 'white',
+        borderColor: 'black',
         backgroundColor: '#5856D6',
         // alignSelf: 'flex-end',
         // top: 100
